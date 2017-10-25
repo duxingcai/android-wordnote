@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_add"
+        android:title="添加单词" />
+
+    <!--<item-->
+        <!--android:id="@+id/menu_delete"-->
+        <!--android:title="删除单词" />-->
+
+    <item
+        android:id="@+id/menu_youdao"
+        android:title="有道词典" />
+
+    <item
+        android:id="@+id/menu_refresh"
+        android:title="单词列表" />
+
+    <!--<item-->
+        <!--android:id="@+id/menu_load_artical"-->
+        <!--android:title="载入"/>-->
+
+</menu>
